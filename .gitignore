@@ -1,0 +1,7 @@
+# ignore pycharm files
+venv/
+__pycache__/
+.idea/
+
+# ignore startup file
+startup
